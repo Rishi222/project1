@@ -1,3 +1,4 @@
 # new project 
 
-This is local on the machine.
+This project is created on the local machine.
+made by Rishi Sharma
